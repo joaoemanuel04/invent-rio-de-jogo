@@ -4,3 +4,8 @@ venv/
 # Cache do Python
 __pycache__/
 *.pyc
+.env
+
+# Bancos de dados
+games.db
+*.db
